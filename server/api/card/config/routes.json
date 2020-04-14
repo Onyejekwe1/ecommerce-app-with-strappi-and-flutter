@@ -1,0 +1,21 @@
+{
+    "routes": [
+        {
+            "path": "/card",
+            "handler": "Card.index",
+            "method": "GET",
+            "config":{
+                "policies": []
+            }
+        },
+
+        {
+            "path": "/card/add",
+            "handler": "Card.add",
+            "method": "POST",
+            "config":{
+                "policies":[]
+            }
+        }
+    ]
+}

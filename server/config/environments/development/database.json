@@ -1,0 +1,20 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "server",
+        "host": "@material-gurl-store-qdbz0.mongodb.net",
+        "srv": "true",
+        "port": 27017,
+        "username": "ionyejekwe",
+        "password": "Laporta1"
+      },
+      "options": {
+        "authenticationDatabase": "",
+        "ssl": true
+      }
+    }
+  }
+}
