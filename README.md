@@ -1,6 +1,6 @@
 # materialgurl_store
 
-A new Flutter project.
+An ecommerce app built with flutter, running on mongodb and nodeJS via strapi CMS.
 
 ## Getting Started
 
