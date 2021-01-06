@@ -12,7 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "stripe": "8.38.0",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "strapi": "3.0.0-beta.19.3",
     "strapi-admin": "3.0.0-beta.19.3",
     "strapi-utils": "3.0.0-beta.19.3",
