@@ -13,7 +13,7 @@
   "dependencies": {
     "stripe": "8.38.0",
     "axios": "0.19.2",
-    "strapi": "3.0.0-beta.19.3",
+    "strapi": "3.6.8",
     "strapi-admin": "3.0.0-beta.19.3",
     "strapi-utils": "3.0.0-beta.19.3",
     "strapi-plugin-content-type-builder": "3.0.0-beta.19.3",
